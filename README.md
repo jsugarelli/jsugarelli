@@ -16,4 +16,4 @@ I run the [Topics in R](https://topics-in-r.blogspot.de/) blog which I mainly us
 
 ## Twitter
 
-I try to keep away from social media to protect my time, but I do use [Twitter](https://twitter.com/jsugarelli). If you are interested in receiving the latest updates in my packages and interesting things I learned, follow [@jsugarelli](https://twitter.com/jsugarelli).
+I try to keep away from social media to protect my time and be more productive, but I do use [Twitter](https://twitter.com/jsugarelli). If you are interested in receiving the latest updates on my packages and interesting things I learned, follow [@jsugarelli](https://twitter.com/jsugarelli).
