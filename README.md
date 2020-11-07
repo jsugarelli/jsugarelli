@@ -3,7 +3,7 @@
 I am an economist, self-taught programmer, BI lead, author, and R enthusiast. I enjoy programming, writing and teaching. Focus of my work is on making complex things more accessible.
 
 My GitHub presence features the R packages I have developed over the last couple of years. They broadly fall into the following categories:
-* Statistical methods and teaching (packages `quantification` and `xplain`)
+* Statistical methods and teaching (packages [https://github.com/jsugarelli/quantification](`quantification`) and `xplain`)
 * Data import and export (packages `flatxml`, `xml2relational`, `xmlconvert`)
 * Working more efficiently with R (packages `packagefinder` and `debugr`)
 * Enhancing the R language (packages `pointr`and `switchcase`)
@@ -16,7 +16,7 @@ I run the [Topics in R](https://topics-in-r.blogspot.de/) blog which I mainly us
 
 ## Twitter
 
-I try to keep away from social media (`Github != social_media`) to protect my time and be more productive, but I do use [Twitter](https://twitter.com/jsugarelli). If you want to  receive the latest updates on my packages and learn about interesting things I come across, click to follow [@jsugarelli](https://twitter.com/jsugarelli).
+I try to keep away from social media (`Github != social_media`) to protect my time and be more productive, but I do use [Twitter](https://twitter.com/jsugarelli). If you want to  receive the latest updates on my packages and learn about interesting things I come across, click [@jsugarelli](https://twitter.com/jsugarelli) to follow.
 
 ## Languages
 
