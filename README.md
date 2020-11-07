@@ -28,4 +28,4 @@ Mainly<br/>
 [<img width="32px" alt="Python" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />](https://www.python.org/)
 [<img width="32px" alt="PHP" src="https://raw.githubusercontent.com/github/explore/ccc16358ac4530c6a69b1b80c7223cd2744dea83/topics/php/php.png" />](https://www.php.net/)
 [<img width="32px" alt="Perl" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/perl/perl.png" />](https://www.perl.org/)
-[<img width="32px" alt="C/C++" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png" />](https://isocpp.org/)
+[<img width="32px" alt="C/C++" src="https://isocpp.org/assets/images/cpp_logo.png" />](https://isocpp.org/)
