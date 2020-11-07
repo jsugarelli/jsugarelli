@@ -10,10 +10,26 @@ My GitHub presence features the R packages I have developed over the last couple
 
 ## My blog
 
-I run the [Topics in R](https://topics-in-r.blogspot.de/) blog which I mainly use for announcements (new packages, articles, books) and which also feeds into RBloggers. Here are the most recent posts:
+I run the [Topics in R](https://topics-in-r.blogspot.de/) blog which I mainly use for announcements (new packages, articles, books) and which also feeds into [RBloggers](https://www.r-bloggers.com/). Here are the most recent posts (at least the major ones):
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
 ## Twitter
 
-I try to keep away from social media (`Github != social_media`) to protect my time and be more productive, but I do use [Twitter](https://twitter.com/jsugarelli). If you want to  receive the latest updates on my packages and learn about interesting things I come across, follow [@jsugarelli](https://twitter.com/jsugarelli).
+I try to keep away from social media (`Github != social_media`) to protect my time and be more productive, but I do use [Twitter](https://twitter.com/jsugarelli). If you want to  receive the latest updates on my packages and learn about interesting things I come across, click to follow [@jsugarelli](https://twitter.com/jsugarelli).
+
+## Langauges & Tools
+
+### Languages
+Mainly<br/>
+[<img width="26px" alt="R" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/r/r.png" />]
+<br/>but also<br/>
+[<img width="26px" alt="SQL" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />]
+[<img width="26px" alt="JavaScript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />]
+[<img width="26px" alt="Python" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />]
+[<img width="26px" alt="PHP" src="https://raw.githubusercontent.com/github/explore/ccc16358ac4530c6a69b1b80c7223cd2744dea83/topics/php/php.png" />]
+[<img width="26px" alt="Perl" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/perl/perl.png" />]
+[<img width="26px" alt="C/C++" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png" />]
+
+### Tools
+For those tool nerds, I am using most of the time:
