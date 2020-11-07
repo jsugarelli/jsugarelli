@@ -22,7 +22,7 @@ I try to keep away from social media (`Github != social_media`) to protect my ti
 
 ### Languages
 Mainly<br/>
-[<img width="32px" alt="R" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/r/r.png" />][https://www.r-project.org]
+[<img width="32px" alt="R" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/r/r.png" />](https://www.r-project.org)
 <img width="32px" alt="SQL" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
 <br/>but also from time to time<br/>
 <img width="32px" alt="JavaScript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
