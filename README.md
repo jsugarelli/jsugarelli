@@ -22,24 +22,24 @@ I try to keep away from social media (`Github != social_media`) to protect my ti
 
 ### Languages
 Mainly<br/>
-<img width="26px" alt="R" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/r/r.png" />
-<img width="26px" alt="SQL" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
+[<img width="32px" alt="R" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/r/r.png" />][https://www.r-project.org]
+<img width="32px" alt="SQL" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
 <br/>but also from time to time<br/>
-<img width="26px" alt="JavaScript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
-<img width="26px" alt="Python" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
-<img width="26px" alt="PHP" src="https://raw.githubusercontent.com/github/explore/ccc16358ac4530c6a69b1b80c7223cd2744dea83/topics/php/php.png" />
-<img width="26px" alt="Perl" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/perl/perl.png" />
-<img width="26px" alt="C/C++" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png" />
+<img width="32px" alt="JavaScript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
+<img width="32px" alt="Python" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
+<img width="32px" alt="PHP" src="https://raw.githubusercontent.com/github/explore/ccc16358ac4530c6a69b1b80c7223cd2744dea83/topics/php/php.png" />
+<img width="32px" alt="Perl" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/perl/perl.png" />
+<img width="32px" alt="C/C++" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png" />
 
 ### Tools
 For those tool nerds out there, I am using most of the time:<br/>
-<img width="26px" alt="R Studio" src="https://simpleicons.org/icons/rstudio.svg" />
-<img width="26px" alt="PyCharm" src="https://simpleicons.org/icons/pycharm.svg" />
-<img width="26px" alt="SublimeText" src="https://simpleicons.org/icons/sublimetext.svg" />
-<img width="26px" alt="Notepad++" src="https://simpleicons.org/icons/notepadplusplus.svg" />
-<img width="26px" alt="Visual Studio Code" src="https://simpleicons.org/icons/visualstudiocode.svg" />
+<img width="32px" alt="R Studio" src="https://simpleicons.org/icons/rstudio.svg" />
+<img width="32px" alt="PyCharm" src="https://simpleicons.org/icons/pycharm.svg" />
+<img width="32px" alt="SublimeText" src="https://simpleicons.org/icons/sublimetext.svg" />
+<img width="32px" alt="Notepad++" src="https://simpleicons.org/icons/notepadplusplus.svg" />
+<img width="32px" alt="Visual Studio Code" src="https://simpleicons.org/icons/visualstudiocode.svg" />
 </br>
 and of course <br/>
-<img width="26px" alt="GitHub" src="https://simpleicons.org/icons/github.svg" />
-<img width="26px" alt="StackOverflow" src="https://simpleicons.org/icons/stackoverflow.svg" />
-<img width="26px" alt="OneNote" src="https://simpleicons.org/icons/microsoftonenote.svg" />
+<img width="32px" alt="GitHub" src="https://simpleicons.org/icons/github.svg" />
+<img width="32px" alt="StackOverflow" src="https://simpleicons.org/icons/stackoverflow.svg" />
+<img width="32px" alt="OneNote" src="https://simpleicons.org/icons/microsoftonenote.svg" />
