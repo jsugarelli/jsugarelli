@@ -8,7 +8,7 @@ My GitHub presence features the R packages I have developed over the last couple
 * Working more efficiently with R (packages `packagefinder` and `debugr`)
 * Enhancing the R language (packages `pointr`and `switchcase`)
 
-## On my blog
+## My blog
 
 I run the [Topics in R](https://topics-in-r.blogspot.de/) blog which I mainly use for announcements (new packages, articles, books) and which also feeds into RBloggers. Here are the most recent posts:
 <!-- BLOG-POST-LIST:START -->
@@ -16,4 +16,4 @@ I run the [Topics in R](https://topics-in-r.blogspot.de/) blog which I mainly us
 
 ## Twitter
 
-I try to keep away from social media to protect my time and be more productive, but I do use [Twitter](https://twitter.com/jsugarelli). If you are interested in receiving the latest updates on my packages and interesting things I learned, follow [@jsugarelli](https://twitter.com/jsugarelli).
+I try to keep away from social media (`Github != social_media`) to protect my time and be more productive, but I do use [Twitter](https://twitter.com/jsugarelli). If you are interested in receiving the latest updates on my packages and interesting things I come across, follow [@jsugarelli](https://twitter.com/jsugarelli).
