@@ -22,7 +22,7 @@ I try to keep away from social media (`Github != social_media`) to protect my ti
 
 ### Languages
 Mainly<br/>
-<img width="26px" alt="R" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/r/r.png" />
+![R](https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/r/r.png "R")
 <img width="26px" alt="SQL" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
 <br/>but also from time to time<br/>
 <img width="26px" alt="JavaScript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
@@ -42,4 +42,4 @@ For those tool nerds out there, I am using most of the time:<br/>
 and of course <br/>
 <img width="26px" alt="GitHub" src="https://simpleicons.org/icons/github.svg" />
 <img width="26px" alt="StackOverflow" src="https://simpleicons.org/icons/stackoverflow.svg" />
-<img width="26px" alt="OneNote" src="https://simpleicons.org/icons/onenote.svg" />
+<img width="26px" alt="OneNote" src="https://simpleicons.org/icons/microsoftonenote.svg" />
