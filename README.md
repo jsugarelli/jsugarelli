@@ -25,7 +25,7 @@ I try to keep away from social media (`Github != social_media`) to protect my ti
 
 ## Current projects
 
-* A introductory book to programming, explaining core concepts and introducing to Python and JavaScript (in German). Currently already in production at [Springer](https://www.springer.com/).
+* An introductory book to programming, explaining core concepts and introducing to Python and JavaScript (in German). Currently already in production at [Springer](https://www.springer.com/).
 * *Step*: A simple, extendable, web-based programming language for beginners, written in PHP. With step-by-step exaplanation of program execution and support for multiple (natural) languages. Soon as a repo on GitHub.
 * `shinyfilters`: An R package for filtering [`reactable`](https://glin.github.io/reactable/) widgets with multiple, interdependent filters. Soon as a repo on GitHub. 
 * `typehint`: An R package for Python-like type hints for function arguments; arguments can also be validated automatically against the pre-defined data types. Soon as a repo on GitHub.
