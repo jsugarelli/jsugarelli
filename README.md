@@ -23,7 +23,17 @@ I run the [Topics in R](https://topics-in-r.blogspot.de/) blog which I mainly us
 
 I try to keep away from social media (`Github != social_media`) to protect my time and be more productive, but I do use [Twitter](https://twitter.com/jsugarelli). If you want to  receive the latest updates on my packages and learn about interesting things I come across, click [@jsugarelli](https://twitter.com/jsugarelli) to follow.
 
-## Languages
+## Current projects
+
+* A introductory book to programming with Python and JavaScript (in German). Currently already in production at [Springer](https://www.springer.com/).
+* *Step*: A simple, extendable, web-based programming language for beginners, written in PHP. With step-by-step exaplanation of program execution and support for multiple (natural) languages. Soon as a repo on GitHub.
+* `shinyfilters`: An R package for filtering 'recatable' widgets with multiple, interdependent filters. Soon as a repo on GitHub. 
+* `typehint`: An R package for Python-like type hints for function arguments; arguments can also be validated automatically against the pre-defined data types. Soon as a repo on GitHub.
+
+
+## Languages & Tools
+
+### Languages
 
 Mainly<br/>
 [<img width="32px" alt="R" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/r/r.png" />](https://www.r-project.org)
@@ -34,3 +44,14 @@ Mainly<br/>
 [<img width="32px" alt="PHP" src="https://raw.githubusercontent.com/github/explore/ccc16358ac4530c6a69b1b80c7223cd2744dea83/topics/php/php.png" />](https://www.php.net/)
 [<img width="32px" alt="Perl" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/perl/perl.png" />](https://www.perl.org/)
 [<img width="32px" alt="C/C++" src="https://isocpp.org/assets/images/cpp_logo.png" />](https://isocpp.org/)
+
+Generally, I like to try out new (or old?) things (ever written something in FORTH?)
+
+### Tools
+
+For the tool freaks out there: My editor/IDE choice is quite language-dependent. I work mainly in R Studio (for R), Microsoft SQL Server Management Studio (for T-SQL), Heidi (for MySQL), and DBeaver (for Postgres and everything else). I also use Sublime Text (mainly for JavaScript, Perl and PHP code) as well as PyCharm (for Python). To organize everything I work with Microsoft To Do and Microsoft OneNote (my second brain, absolutely indispensable). And most importantly for efficiency and avoidance of frictions: I use the same tools at home and in my job.
+
+### Stats
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=jsugarelli&hide=contribs,prs&show_icons=true)
+![](https://komarev.com/ghpvc/?username=jsugarelli)
