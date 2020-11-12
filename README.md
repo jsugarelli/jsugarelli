@@ -53,6 +53,6 @@ For the tool freaks out there: My editor/IDE choice is quite language-dependent.
 
 ### Stats
 
-<p>![GitHub stats](https://github-readme-stats.vercel.app/api?username=jsugarelli&hide=contribs,prs&show_icons=true&hide_title=true)
-<p>![](https://komarev.com/ghpvc/?username=jsugarelli)</p>
+<p>![GitHub stats](https://github-readme-stats.vercel.app/api?username=jsugarelli&hide=contribs,prs&show_icons=true&hide_title=true)</p>
+<p>![](https://komarev.com/ghpvc/?username=jsugarelli)
 since 2020-11-12</p>
