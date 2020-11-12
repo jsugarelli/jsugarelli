@@ -51,7 +51,7 @@ Generally, I like to try out new (or old?) things (ever written something in FOR
 
 For the tool freaks out there: My editor/IDE choice is quite language-dependent. I work mainly in R Studio (for R), Microsoft SQL Server Management Studio (for T-SQL), Heidi (for MySQL), and DBeaver (for Postgres and everything else). I also use Sublime Text (mainly for JavaScript, Perl and PHP code) as well as PyCharm (for Python). To organize everything I work with Microsoft To Do and Microsoft OneNote (my second brain, absolutely indispensable). And most importantly for efficiency and avoidance of frictions: I use the same tools at home and in my job.
 
-### Stats
+## Stats
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=jsugarelli&hide=contribs,prs&show_icons=true&hide_title=true)
 
