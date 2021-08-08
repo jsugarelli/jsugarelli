@@ -6,7 +6,8 @@ My GitHub presence features the R packages I have developed over the last couple
 * Statistical methods and teaching (packages [`quantification`](https://github.com/jsugarelli/quantification) and [`xplain`](https://github.com/jsugarelli/xplain))
 * Data import and export (packages [`flatxml`](https://github.com/jsugarelli/flatxml), [`xml2relational`](https://github.com/jsugarelli/xml2relational), [`xmlconvert`](https://github.com/jsugarelli/xmlconvert))
 * Working more efficiently with R (packages [`packagefinder`](https://github.com/jsugarelli/packagefinder) and [`debugr`](https://github.com/jsugarelli/debugr))
-* Enhancing the R language (packages [`pointr`](https://github.com/jsugarelli/pointr) and [`switchcase`](https://github.com/jsugarelli/switchcase))
+* Enhancing the R language (packages [`pointr`](https://github.com/jsugarelli/pointr), [`switchcase`](https://github.com/jsugarelli/switchcase) and [`typehint`](https://github.com/jsugarelli/typehint))
+* Shiny ([`shinyfilter`](https://github.com/jsugarelli/shinyfilter))
 
 ## My blog
 
@@ -25,10 +26,9 @@ I try to keep away from social media (`Github != social_media`) to protect my ti
 
 ## Current projects
 
-* An introductory book to programming, explaining core concepts and introducing to Python and JavaScript (in German). Currently already in production at [Springer](https://www.springer.com/).
-* *Step*: A simple, extendable, web-based programming language for beginners, written in PHP. With step-by-step exaplanation of program execution and support for multiple (natural) languages. Soon as a repo on GitHub.
-* `shinyfilters`: An R package for filtering [`reactable`](https://glin.github.io/reactable/) widgets with multiple, interdependent filters. Soon as a repo on GitHub. 
-* `typehint`: An R package for Python-like type hints for function arguments; arguments can also be validated automatically against the pre-defined data types. Soon as a repo on GitHub.
+* Writing an introductory microeconomics textbook (work in progress)
+* Giving lectures in economics at [Hochschule München](https://www.hm.edu/en/index.en.html)
+* Step: A simple, extendable, web-based programming language for beginners, written in PHP. With step-by-step exaplanation of program execution and support for multiple (natural) languages. Soon as a repo on GitHub.
 
 
 ## Languages & Tools
@@ -56,4 +56,3 @@ For the tool freaks out there: My editor/IDE choice is quite language-dependent.
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=jsugarelli&hide=contribs,prs&show_icons=true&hide_title=true)
 
 ![](https://komarev.com/ghpvc/?username=jsugarelli)
-<br/>(since 2020-11-12)
