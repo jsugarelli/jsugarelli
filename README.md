@@ -1,6 +1,6 @@
 ## About me
 
-I am an economist, self-taught programmer, BI lead, author, and R enthusiast. I enjoy programming, writing and teaching. Focus of my work is on making complex things more accessible.
+I am an economist, self-taught programmer, BI lead, author, lecturer and R enthusiast. I enjoy programming, writing and teaching. Focus of my work is on making complex things more accessible.
 
 My GitHub presence features the R packages I have developed over the last couple of years. They broadly fall into the following categories:
 * Statistical methods and teaching (packages [`quantification`](https://github.com/jsugarelli/quantification) and [`xplain`](https://github.com/jsugarelli/xplain))
@@ -14,8 +14,8 @@ My GitHub presence features the R packages I have developed over the last couple
 I run the [Topics in R](https://topics-in-r.blogspot.de/) blog which I mainly use for announcements (new packages, articles, books) and which also feeds into [RBloggers](https://www.r-bloggers.com/). Here are the most recent posts (at least the major ones):
 <!-- BLOG-POST-LIST:START -->
 - [Converting XML data to R dataframes with xmlconvert](https://topics-in-r.blogspot.com/2020/11/converting-xml-data-to-r-dataframes.html)
-- [Pointers/shortcuts in R with the 'pointr' package](https://topics-in-r.blogspot.com/2020/07/pointersshortcuts-in-r-with-pointr.html)
-- [The 'xml2relational' package: Transforming NoSQL to relational data](https://topics-in-r.blogspot.com/2020/05/the-xml2relational-package-transforming.html)
+- [Pointers/shortcuts in R with the &#39;pointr&#39; package](https://topics-in-r.blogspot.com/2020/07/pointersshortcuts-in-r-with-pointr.html)
+- [The &#39;xml2relational&#39; package: Transforming NoSQL to relational data](https://topics-in-r.blogspot.com/2020/05/the-xml2relational-package-transforming.html)
 - [A switch-case construct for the R language](https://topics-in-r.blogspot.com/2020/05/a-switch-case-construct-for-r-language.html)
 - [Finding CRAN packages right from the R console](https://topics-in-r.blogspot.com/2019/06/finding-cran-packages-right-from-r.html)
 <!-- BLOG-POST-LIST:END -->
@@ -26,7 +26,7 @@ I try to keep away from social media (`Github != social_media`) to protect my ti
 
 ## Current projects
 
-* Reviewing the English translation of my German Python & JavaScript introductory textbook ([publisher: Springer](https://link.springer.com/book/10.1007/978-3-658-29850-0).
+* Reviewing the English translation of my German Python & JavaScript introductory textbook (publisher: [Springer](https://link.springer.com/book/10.1007/978-3-658-29850-0)).
 * Giving lectures in economics at [Hochschule München](https://www.hm.edu/en/index.en.html)
 
 ## Languages & Tools
