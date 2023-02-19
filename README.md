@@ -4,9 +4,9 @@ I am an economist, self-taught programmer, BI lead, author, and R enthusiast. I 
 
 My GitHub presence features the R packages I have developed over the last couple of years. They broadly fall into the following categories:
 * Statistical methods and teaching (packages [`quantification`](https://github.com/jsugarelli/quantification) and [`xplain`](https://github.com/jsugarelli/xplain))
-* Data import and export (packages [`flatxml`](https://github.com/jsugarelli/flatxml), [`xml2relational`](https://github.com/jsugarelli/xml2relational), [`xmlconvert`](https://github.com/jsugarelli/xmlconvert))
+* Data import and export (packages [`flatxml`](https://github.com/jsugarelli/flatxml), [`xml2relational`](https://github.com/jsugarelli/xml2relational), [`xmlconvert`](https://github.com/jsugarelli/xmlconvert), [`refreshr`](https://github.com/jsugarelli/refreshr))
 * Working more efficiently with R (packages [`packagefinder`](https://github.com/jsugarelli/packagefinder) and [`debugr`](https://github.com/jsugarelli/debugr))
-* Enhancing the R language (packages [`pointr`](https://github.com/jsugarelli/pointr), [`switchcase`](https://github.com/jsugarelli/switchcase) and [`typehint`](https://github.com/jsugarelli/typehint))
+* Enhancing the R language (packages [`pointr`](https://github.com/jsugarelli/pointr), [`switchcase`](https://github.com/jsugarelli/switchcase), [`typehint`](https://github.com/jsugarelli/typehint))
 * Shiny ([`shinyfilter`](https://github.com/jsugarelli/shinyfilter))
 
 ## My blog
@@ -22,14 +22,12 @@ I run the [Topics in R](https://topics-in-r.blogspot.de/) blog which I mainly us
 
 ## Twitter
 
-I try to keep away from social media (`Github != social_media`) to protect my time and be more productive, but I do use [Twitter](https://twitter.com/jsugarelli). If you want to  receive the latest updates on my packages and learn about interesting things I come across, click [@jsugarelli](https://twitter.com/jsugarelli) to follow.
+I try to keep away from social media (`Github != social_media`) to protect my time and be more productive, but I do use [Twitter](https://twitter.com/jsugarelli). If you want to receive the latest updates on my packages and learn about interesting things I come across, click [@jsugarelli](https://twitter.com/jsugarelli) to follow.
 
 ## Current projects
 
-* Writing an introductory microeconomics textbook (work in progress)
+* Reviewing the English translation of my German Python & JavaScript introductory textbook ([publisher: Springer](https://link.springer.com/book/10.1007/978-3-658-29850-0).
 * Giving lectures in economics at [Hochschule München](https://www.hm.edu/en/index.en.html)
-* Step: A simple, extendable, web-based programming language for beginners, written in PHP. With step-by-step exaplanation of program execution and support for multiple (natural) languages. Soon as a repo on GitHub.
-
 
 ## Languages & Tools
 
