@@ -26,7 +26,7 @@ I try to keep away from social media (`Github != social_media`) to protect my ti
 
 ## Current projects
 
-* Reviewing the English translation of my German Python & JavaScript introductory textbook (publisher: [Springer](https://link.springer.com/book/10.1007/978-3-658-29850-0)).
+* Reviewing the English translation of my German Python & JavaScript introductory textbook (publisher: [Springer](https://link.springer.com/book/10.1007/978-3-658-29850-0))
 * Giving lectures in economics at [Hochschule München](https://www.hm.edu/en/index.en.html)
 
 ## Languages & Tools
