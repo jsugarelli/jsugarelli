@@ -58,6 +58,7 @@ Generally, I like to try out new (or old?) things (ever written something in FOR
 
 For the tool freaks out there: My editor/IDE choice is quite language-dependent. I work mainly in R Studio (for R), Visual Studio Code (for Python) and Microsoft SQL Server Management Studio (for T-SQL). I also use Sublime Text (mainly for JavaScript, Perl and PHP code). To organize everything I work with Microsoft To Do and Microsoft OneNote (my second brain, absolutely indispensable). And most importantly for efficiency and avoidance of frictions: I use the same tools at home and in my job.
 
+
 # Blog, Social Media and Contact
 
 ## My blog
